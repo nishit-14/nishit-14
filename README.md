@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nishit Oberoi
 
-<!--
-**nishit-14/nishit-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at SJSU interested in backend software engineering, DevOps, and cloud.
 
-Here are some ideas to get you started:
+## About Me
+- CS student with a Business minor
+- Interested in backend, infrastructure, and cloud
+- Currently building projects with Java, Spring Boot, Python, React, and Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Java, Python, JavaScript, SQL
+- Backend: Spring Boot, Node.js, Flask
+- Frontend: React
+- Databases: MySQL, MongoDB
+- Tools: Docker, Git, GitHub, Redis
+
+## Featured Projects
+### RetailOps
+DevOps/microservices portfolio project with observability and deployment tooling.
+
+### NoteCam
+Mobile app that captures notes from images and sends them to Google Docs.
+
+### OFS
+Full-stack grocery ordering and delivery system built with React, FastAPI, and MySQL.
+
+## Currently Working On
+- Backend and DevOps projects
+- Cloud/infrastructure skills
+- New grad and internship preparation
+
+## Connect With Me
+- LinkedIn: your link
+- Portfolio: your link
+- Email: your email
