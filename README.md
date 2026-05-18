@@ -19,7 +19,7 @@ I enjoy building software that solves real workflow problems — from backend AP
 
 ### [RetailOps – DevOps Microservices Platform](https://github.com/nishit-14/retailops-devops-portfolio)
 
-A production-style DevOps project that simulates a retail backend using Go microservices, Docker Compose, Kubernetes, CI/CD, observability, and autoscaling. It includes Prometheus/Grafana dashboards, Jaeger tracing, blue/green rollout scripts, and k6-based load testing.
+A production-style DevOps project that simulates a retail backend using Go microservices, Docker Compose, Kubernetes, CI/CD, observability, and autoscaling. It includes dashboards, distributed tracing, rollout scripts, load testing, and infrastructure workflows that mirror real backend/platform engineering work.
 
 **Tech:** Go, Docker, Kubernetes, GitHub Actions, PostgreSQL, Prometheus, Grafana, Jaeger, OpenTelemetry
 
@@ -27,15 +27,15 @@ A production-style DevOps project that simulates a retail backend using Go micro
 
 ### [OFS – Organic Food Service](https://github.com/ehhdyyy/OFS_CS160)
 
-A full-stack grocery ordering and delivery platform for a fictional organic retailer in Downtown San Jose. It includes login, inventory management, weight-based pricing, order workflows, and delivery-related functionality using Google Maps API.
+A full-stack organic grocery ordering and home delivery web application for a fictional retailer in Downtown San Jose. The app allows users to register, log in, and interact with the OFS system through a React/Vite frontend, FastAPI backend, and MySQL database, with Docker support for easier local setup.
 
-**Tech:** React, Vite, FastAPI, Python, MySQL, Docker, Google Maps API
+**Tech:** React, Vite, FastAPI, Python, MySQL, Docker
 
 ---
 
 ### [NoteCam](https://github.com/nishit-14/NoteCam)
 
-A mobile note-capture app that lets students take photos of whiteboards or lecture slides, extract text with OCR, and append the notes into a selected Google Doc. It uses a mobile-first workflow with saved documents, OCR history, and Google Docs integration.
+A mobile note-capture app that helps students take photos of whiteboards, slides, or class notes and turn them into editable digital notes. The app uses OCR and Google Docs integration so users can select a document and append extracted text directly into it.
 
 **Tech:** React Native, Expo, TypeScript, OCR, Google Docs API, Google Drive API
 
@@ -43,15 +43,15 @@ A mobile note-capture app that lets students take photos of whiteboards or lectu
 
 ### [OS Simulation](https://github.com/nishit-14/os-simulation)
 
-A C-based operating systems simulation that models task control blocks, ready queues, blocked queues, process states, and CPU scheduling behavior. It helped strengthen my understanding of process management, blocking, forking, and turnaround time.
+A C-based operating systems simulation that models task control blocks, ready queues, blocked queues, process states, and CPU scheduling behavior. This project helped me better understand process management, blocking, forking, and how operating systems manage execution flow.
 
-**Tech:** C, Unix/Linux Concepts, Process Scheduling, Queues
+**Tech:** C, Process Scheduling, Queues, Operating Systems Concepts
 
 ---
 
 ### [Networked Tic-Tac-Toe Game](https://github.com/nishit-14/TicTacToeGame)
 
-A Java client-server Tic-Tac-Toe game where two players connect to a central server and play in real time through a Swing GUI. The server handles player pairing, turn validation, move updates, win detection, and disconnect cases.
+A Java client-server Tic-Tac-Toe game where two players connect to a central server and play in real time through a desktop GUI. The server manages player pairing, turn validation, move updates, win detection, and basic disconnect handling.
 
 **Tech:** Java 21, Java Sockets, Swing, Client-Server Architecture
 
@@ -59,7 +59,7 @@ A Java client-server Tic-Tac-Toe game where two players connect to a central ser
 
 ### [Python-Based Stock Data Explorer](https://github.com/Ksingh945/cs122_Project)
 
-A Flask web app that lets users search stock tickers, retrieve historical market data, and visualize trends such as moving averages, returns, volume, volatility, and Bollinger Bands. It uses local caching to reduce repeated API calls.
+A Flask web app that lets users search stock tickers, retrieve historical market data, and visualize trends. The project includes stock charts, moving averages, return analysis, volume insights, and local caching to reduce repeated API calls.
 
 **Tech:** Python, Flask, Pandas, Matplotlib, Bootstrap, Alpha Vantage API
 
@@ -67,7 +67,7 @@ A Flask web app that lets users search stock tickers, retrieve historical market
 
 ### [Wildfire Insurance Inventory System](https://github.com/harshitjaglan/CS157-Wildfire)
 
-A Java desktop application that helps users organize household belongings by room and category for wildfire insurance documentation. It supports user login, inventory management, report export, and PostgreSQL database storage.
+A Java desktop application that helps users organize household belongings for wildfire insurance documentation. Users can manage inventory items by room and category, store data in PostgreSQL, and export reports for insurance-related records.
 
 **Tech:** Java 21, Swing, Maven, PostgreSQL, Supabase, JDBC, JUnit
 
