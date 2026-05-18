@@ -13,7 +13,7 @@ I enjoy building software that solves real workflow problems — from backend AP
 
 - Email: [nishitsachinoberoi@gmail.com](mailto:nishitsachinoberoi@gmail.com)
 - LinkedIn: [linkedin.com/in/nishit-oberoi-098b19209](https://www.linkedin.com/in/nishit-oberoi-098b19209)
-- Resume: [View Resume](./Nishit_Oberoi_Resume (2026).pdf)
+- Resume: [View Resume](Nishit_Oberoi_Resume%20(2026).pdf)
 
 ## Featured Projects
 
